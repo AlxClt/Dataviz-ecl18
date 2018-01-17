@@ -9,3 +9,5 @@
 9 https://blogs.sas.com/content/sastraining/2012/10/23/top-3-updates-to-categorical-data-analysis-using-sas/
 10 http://proc-x.com/2015/03/visualizing-the-causes-of-airline-crashes/
 11 https://jepoirrier.org/2012/05/16/visualizing-categorical-data-in-mosaic-with-r/
+12 https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Mosaic_Plots.pdf
+13 https://ncss-wpengine.netdna-ssl.com/wp-content/themes/ncss/pdf/Procedures/NCSS/Mosaic_Plots.pdf
