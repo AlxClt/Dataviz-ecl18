@@ -1,0 +1,11 @@
+1 https://en.wikipedia.org/wiki/Mosaic_plot
+2 http://www.actuarially.co.uk/post/27156208823/smartphone-operating-system-share-mosaic-plot
+3 https://www.originlab.com/www/products/GraphGallery.aspx?GID=401
+4 https://jeremiahstanghini.com/2017/07/30/what-is-data-science/
+5 https://steemit.com/programming/@dkmathstats/displaying-table-results-in-r
+6 http://www.theusrus.de/blog/dont-call-me-marimekko/
+7 https://www.qimacros.com/quality-tools/mosaic-chart-marimekko/
+8 https://policyviz.com/hmv_post/mosaic-plot-of-the-titanic/
+9 https://blogs.sas.com/content/sastraining/2012/10/23/top-3-updates-to-categorical-data-analysis-using-sas/
+10 http://proc-x.com/2015/03/visualizing-the-causes-of-airline-crashes/
+11 https://jepoirrier.org/2012/05/16/visualizing-categorical-data-in-mosaic-with-r/
