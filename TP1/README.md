@@ -1,5 +1,8 @@
 ## TP 1 - Data Visualization - Mosaic Chart
 
+The goal of this project is to introduce a particular type of data vizualisation, describe it and give some examples
+
+
 ### 1) What is a mosaic chart exactly?
 
 #### a) Definition 
