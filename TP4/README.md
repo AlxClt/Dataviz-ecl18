@@ -2,4 +2,4 @@
 
 Geo map showing flu infection in France
 
-Visualize it : http://cdn.rawgit.com/AlxClt/dataviz_ecl18/master/TP4/map.html
+Visualize it : https://alxclt.github.io/Dataviz-ecl18/TP4/map
